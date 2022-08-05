@@ -1,53 +1,79 @@
 const data = {
     products: [
         {
-            name:'Polo Slim shirt',
+            name:'ON&ON Smoking Print Long Dress [NW1MO602]',
             slug: 'Polo-Slim-shirt',
             category: 'Shirts',
-            image:'/images/p1.jpg',
-            price: 120,
-            countInStock: 10,
+            image:'/images/p10.jpg', //679 x 829
+            price: '700 sek',
+            countInStock: '1599 sek',
             brand: 'Polo',
             rating: 4.5,
             numReviews: 10,
-            description: 'high quality shirt'
+            description: 'high quality Dress'
         },
         {
-            name:'Adidas Fit shirt',
+            name:'[overseas] MILLE Francesca Top Blouse In Pearl Viole',
             slug: 'Polo-Slim-shirt',
             category: 'Shirts',
-            image:'/images/p2.jpg',
-            price: 120,
+            image:'/images/p9.jpg',
+            price: '1100 sek',
             countInStock: 10,
-            brand: 'Polo',
-            rating: 4.5,
-            numReviews: 10,
-            description: 'high quality shirt'
-        },
-        {
-            name:'Nike Slim Pant',
-            slug: 'Polo-Slim-shirt',
-            category: 'Shirts',
-            image:'/images/p3.jpg',
-            price: 120,
-            countInStock: 10,
-            brand: 'Polo',
+            brand: 'Mille',
             rating: 4.5,
             numReviews: 14,
-            description: 'high quality shirt'
+            description: 'high quality Blouse'
         },
         {
-            name:'Adidas Fit Pant',
-            slug: 'Polo-Slim-shirt',
+            name:'Fashion Plus [Egoist] Frill Smoking Jumper (EM2WZ460) ',
+            slug: 'egoist [Half Club/Egoist] Out Pocket Casual Short Jumper EN2OJP01 ',
             category: 'Shirts',
-            image:'/images/p4.jpg', //679 x 829
-            price: 120,
-            countInStock: 11,
-            brand: 'Polo',
+            image:'/images/p12.jpg',
+            price: '1600 sek',
+            countInStock: 10,
+            brand: 'Egoist',
             rating: 4.5,
             numReviews: 10,
-            description: 'high quality shirt'
-        }
+            description: 'high quality'
+        },
+        {
+            name:'Egoist out pocket short jumper ',
+            slug: 'egoist [Half Club/Egoist] Out Pocket Casual Short Jumper EN2OJP01 ',
+            category: 'Shirts',
+            image:'/images/p7.jpg',
+            price: '1300 sek',
+            countInStock: 10,
+            brand: 'Egoist',
+            rating: 4.5,
+            numReviews: 10,
+            description: 'high quality'
+        },
+        {
+            name:'egoist(Daegu Shinsegae) Mustang Mix Air Jumper (EM4WZ060)',
+            slug: 'egoist [Half Club/Egoist] Out Pocket Casual Short Jumper EN2OJP01 ',
+            category: 'Shirts',
+            image:'/images/p11.jpg',
+            price: '2200 sek',
+            countInStock: 10,
+            brand: 'Egoist',
+            rating: 4.5,
+            numReviews: 10,
+            description: 'high quality'
+        },
+
+        // {
+        //     name:'RCB polo club',
+        //     slug: 'RCB polo club',
+        //     category: 'Shirts',
+        //     image:'/images/p8.jpg',
+        //     price: '700 sek',
+        //     countInStock: 10,
+        //     brand: 'Polo',
+        //     rating: 4.5,
+        //     numReviews: 10,
+        //     description: 'high quality jumper'
+        // }
+        
     ]
 }
 

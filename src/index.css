@@ -17,3 +17,18 @@ header a {
   font-weight: bold;
   text-decoration: none;
 }
+
+.products {
+  display: flex;
+}
+
+/*make it responsive all each other , next to the next img */
+
+.product {
+  border: 1px #404040 solid;
+}
+
+/*now all imges shows on website */
+.product img {
+  width: 100%;
+}
