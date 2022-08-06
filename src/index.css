@@ -17,18 +17,29 @@ header a {
   font-weight: bold;
   text-decoration: none;
 }
-
+main {
+  padding: 1rem;
+}
+/*margin for img  flex-wrap: wrap;, margin:1rem , max-width:400px*/
 .products {
   display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
 }
 
 /*make it responsive all each other , next to the next img */
 
 .product {
   border: 1px #404040 solid;
+  margin: 1rem;
 }
 
 /*now all imges shows on website */
 .product img {
   width: 100%;
+  max-width: 300px;
+}
+
+.product-info {
+  padding: 1rem;
 }

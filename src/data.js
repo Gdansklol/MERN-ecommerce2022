@@ -1,7 +1,8 @@
 const data = {
     products: [
         {
-            name:'ON&ON Smoking Print Long Dress [NW1MO602]',
+            name:'ON&ON Smoking ',
+            nameB: 'Print Long Dress [NW1MO602]',
             slug: 'Polo-Slim-shirt',
             category: 'Shirts',
             image:'/images/p10.jpg', //679 x 829
@@ -13,7 +14,8 @@ const data = {
             description: 'high quality Dress'
         },
         {
-            name:'[overseas] MILLE Francesca Top Blouse In Pearl Viole',
+            name:'[overseas] MILLE Francesca',
+            nameB:'Top Blouse In Pearl Viole',
             slug: 'Polo-Slim-shirt',
             category: 'Shirts',
             image:'/images/p9.jpg',
@@ -25,7 +27,8 @@ const data = {
             description: 'high quality Blouse'
         },
         {
-            name:'Fashion Plus [Egoist] Frill Smoking Jumper (EM2WZ460) ',
+            name:'Fashion Plus [Egoist] Frill',
+            nameB: ' Smoking Jumper (EM2WZ460) ',
             slug: 'egoist [Half Club/Egoist] Out Pocket Casual Short Jumper EN2OJP01 ',
             category: 'Shirts',
             image:'/images/p12.jpg',
@@ -37,7 +40,8 @@ const data = {
             description: 'high quality'
         },
         {
-            name:'Egoist out pocket short jumper ',
+            name:'Egoist out pocket  ',
+            nameB:' short jumper ',
             slug: 'egoist [Half Club/Egoist] Out Pocket Casual Short Jumper EN2OJP01 ',
             category: 'Shirts',
             image:'/images/p7.jpg',
@@ -48,18 +52,18 @@ const data = {
             numReviews: 10,
             description: 'high quality'
         },
-        {
-            name:'egoist(Daegu Shinsegae) Mustang Mix Air Jumper (EM4WZ060)',
-            slug: 'egoist [Half Club/Egoist] Out Pocket Casual Short Jumper EN2OJP01 ',
-            category: 'Shirts',
-            image:'/images/p11.jpg',
-            price: '2200 sek',
-            countInStock: 10,
-            brand: 'Egoist',
-            rating: 4.5,
-            numReviews: 10,
-            description: 'high quality'
-        },
+        // {
+        //     name:'egoist(Daegu Shinsegae) Mustang Mix Air Jumper (EM4WZ060)',
+        //     slug: 'egoist [Half Club/Egoist] Out Pocket Casual Short Jumper EN2OJP01 ',
+        //     category: 'Shirts',
+        //     image:'/images/p11.jpg',
+        //     price: '2200 sek',
+        //     countInStock: 10,
+        //     brand: 'Egoist',
+        //     rating: 4.5,
+        //     numReviews: 10,
+        //     description: 'high quality'
+        // },
 
         // {
         //     name:'RCB polo club',
